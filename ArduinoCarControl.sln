@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoCarControl", "ArduinoCarControl\ArduinoCarControl.csproj", "{4F771FAD-4611-426F-AF97-64C7E2EBB488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F771FAD-4611-426F-AF97-64C7E2EBB488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F771FAD-4611-426F-AF97-64C7E2EBB488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F771FAD-4611-426F-AF97-64C7E2EBB488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F771FAD-4611-426F-AF97-64C7E2EBB488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE47500D-EC5F-4FD0-8F7C-C541BCA01201}
+	EndGlobalSection
+EndGlobal
